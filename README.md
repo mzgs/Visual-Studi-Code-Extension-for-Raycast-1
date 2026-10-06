@@ -4,15 +4,6 @@ This is a Visual Studio Code extension for Raycast. It allows you to quickly ope
 
 ## Installation
 
-```
-https://github.com/mzgs/Visual-Studi-Code-Extension-for-Raycast-1
-
-git clone https://github.com/mzgs/Visual-Studi-Code-Extension-for-Raycast-1.git
-cd Visual-Studi-Code-Extension-for-Raycast-1
-npm ci
-npm run build
-npm run dev
-cd ..
-rm -rf Visual-Studi-Code-Extension-for-Raycast-1
-
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/mzgs/Visual-Studi-Code-Extension-for-Raycast-1/refs/heads/main/install.sh)
 ```
